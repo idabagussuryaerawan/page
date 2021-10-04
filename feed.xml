@@ -3,28 +3,30 @@
     <title>Only Paranoid Survive</title>
     <link href="https://suryaerawan.com/feed.xml" rel="self" />
     <link href="https://suryaerawan.com" />
-    <updated>2021-10-05T00:19:17+08:00</updated>
+    <updated>2021-10-05T00:47:55+08:00</updated>
     <author>
         <name>Surya</name>
     </author>
     <id>https://suryaerawan.com</id>
 
     <entry>
-        <title>Home</title>
+        <title>Island of The Gods</title>
         <author>
             <name>Surya</name>
         </author>
         <link href="https://suryaerawan.com/home/"/>
         <id>https://suryaerawan.com/home/</id>
 
-        <updated>2021-10-05T00:19:17+08:00</updated>
+        <updated>2021-10-05T00:47:55+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" alt="" />
                     Few images from the island where I live 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" alt="" />
                 <p class="align-center">Few images from the island where I live</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/nelbali-photography-EgVgEc6C-Vo-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
