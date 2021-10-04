@@ -3,12 +3,44 @@
     <title>Only Paranoid Survive</title>
     <link href="https://suryaerawan.com/feed.xml" rel="self" />
     <link href="https://suryaerawan.com" />
-    <updated>2021-10-05T00:47:55+08:00</updated>
+    <updated>2021-10-05T01:00:18+08:00</updated>
     <author>
         <name>Surya</name>
     </author>
     <id>https://suryaerawan.com</id>
 
+    <entry>
+        <title>Ubud</title>
+        <author>
+            <name>Surya</name>
+        </author>
+        <link href="https://suryaerawan.com/ubud/"/>
+        <id>https://suryaerawan.com/ubud/</id>
+
+        <updated>2021-10-05T01:00:18+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://suryaerawan.com/media/posts/2/chema-photo-DmEXjTOGkAY-unsplash.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://suryaerawan.com/media/posts/2/chema-photo-DmEXjTOGkAY-unsplash.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/syuhei-inoue-h-Kfom9kXgI-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/syuhei-inoue-h-Kfom9kXgI-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/niklas-weiss-uyuHpQdmyPI-unsplash.jpg" data-size="1920x1465"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/niklas-weiss-uyuHpQdmyPI-unsplash-thumbnail.jpg" alt="" width="768" height="586"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/matthew-waring-0jdwGp1NtUk-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/matthew-waring-0jdwGp1NtUk-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/jt-7lm59in6iuo-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/jt-7lm59in6iuo-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/maybritt-devriese-Xdz5wY0zwLI-unsplash.jpg" data-size="1920x1281"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/maybritt-devriese-Xdz5wY0zwLI-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/johan-sjogren-oUkv66ssmkY-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/johan-sjogren-oUkv66ssmkY-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/wina-tristiana-EqV06VnlGEw-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/wina-tristiana-EqV06VnlGEw-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/chema-photo-DmEXjTOGkAY-unsplash.jpg" data-size="1920x1440"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/chema-photo-DmEXjTOGkAY-unsplash-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/jared-rice-xce530fBHrk-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/jared-rice-xce530fBHrk-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Island of The Gods</title>
         <author>
@@ -17,7 +49,7 @@
         <link href="https://suryaerawan.com/home/"/>
         <id>https://suryaerawan.com/home/</id>
 
-        <updated>2021-10-05T00:47:55+08:00</updated>
+        <updated>2021-10-05T00:49:43+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" alt="" />
