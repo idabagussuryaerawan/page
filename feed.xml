@@ -3,10 +3,37 @@
     <title>Surya Erawan</title>
     <link href="https://suryaerawan.com/feed.xml" rel="self" />
     <link href="https://suryaerawan.com" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2021-10-04T23:34:14+08:00</updated>
     <author>
         <name>Surya</name>
     </author>
     <id>https://suryaerawan.com</id>
 
+    <entry>
+        <title>Home</title>
+        <author>
+            <name>Surya</name>
+        </author>
+        <link href="https://suryaerawan.com/home.html"/>
+        <id>https://suryaerawan.com/home.html</id>
+
+        <updated>2021-10-04T23:34:14+08:00</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/nelbali-photography-EgVgEc6C-Vo-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/nick-fewings-vVkayXvZnwQ-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/nick-fewings-vVkayXvZnwQ-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/bckfwd-VcqoaqKpNYw-unsplash.jpg" data-size="1920x1440"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/bckfwd-VcqoaqKpNYw-unsplash-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/geio-tischler-7hww7t6NLcg-unsplash.jpg" data-size="1920x1279"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/geio-tischler-7hww7t6NLcg-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/sebastian-pena-lambarri-U_i6h9Y50wQ-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/sebastian-pena-lambarri-U_i6h9Y50wQ-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/niklas-weiss-2WlTWZLnRc-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/niklas-weiss-2WlTWZLnRc-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
