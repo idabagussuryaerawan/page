@@ -1,40 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Only Paranoid Survive</title>
     <link href="https://suryaerawan.com/feed.xml" rel="self" />
     <link href="https://suryaerawan.com" />
-    <updated>2021-10-05T15:57:29+08:00</updated>
+    <updated>2021-10-05T08:05:16+07:00</updated>
     <author>
         <name>Surya</name>
     </author>
     <id>https://suryaerawan.com</id>
 
-    <entry>
-        <title>Zig Ziglar</title>
-        <author>
-            <name>Surya</name>
-        </author>
-        <link href="https://suryaerawan.com/zig-ziglar/"/>
-        <id>https://suryaerawan.com/zig-ziglar/</id>
-            <category term="Quotes"/>
-
-        <updated>2021-10-05T15:57:29+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://suryaerawan.com/media/posts/4/Zig-Ziglar-Motivation-2021-10-05-2.png" alt="" />
-                    <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily\n\n - Zig Ziglar -\n\n#motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif&quot;}" data-sheets-userformat="{&quot;2&quot;:4480,&quot;10&quot;:0,&quot;11&quot;:4,&quot;15&quot;:&quot;Arial&quot;}" data-sheets-formula="=ArrayFormula(IF(R[0]C[-6]:C[-6]=&quot;&quot;,&quot;&quot;,CONCAT(CONCAT(CONCAT((CONCAT(R[0]C[-4]:C[-4],CONCAT(R1C5,CONCAT(R1C5,CONCAT(&quot; - &quot;,CONCAT(R[0]C[-3]:C[-3],&quot; -&quot;)))))),R1C5),R1C5),R1C3)))">People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily</span></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://suryaerawan.com/media/posts/4/Zig-Ziglar-Motivation-2021-10-05-2.png" alt="" />
-                <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily\n\n - Zig Ziglar -\n\n#motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif&quot;}" data-sheets-userformat="{&quot;2&quot;:4480,&quot;10&quot;:0,&quot;11&quot;:4,&quot;15&quot;:&quot;Arial&quot;}" data-sheets-formula="=ArrayFormula(IF(R[0]C[-6]:C[-6]=&quot;&quot;,&quot;&quot;,CONCAT(CONCAT(CONCAT((CONCAT(R[0]C[-4]:C[-4],CONCAT(R1C5,CONCAT(R1C5,CONCAT(&quot; - &quot;,CONCAT(R[0]C[-3]:C[-3],&quot; -&quot;)))))),R1C5),R1C5),R1C3)))">People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily</span></p>
-
-<p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;People often say that motivation doesn't last. Well, neither does bathing -- that's why we recommend it daily\n\n - Zig Ziglar -\n\n#motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif&quot;}" data-sheets-userformat="{&quot;2&quot;:4480,&quot;10&quot;:0,&quot;11&quot;:4,&quot;15&quot;:&quot;Arial&quot;}" data-sheets-formula="=ArrayFormula(IF(R[0]C[-6]:C[-6]=&quot;&quot;,&quot;&quot;,CONCAT(CONCAT(CONCAT((CONCAT(R[0]C[-4]:C[-4],CONCAT(R1C5,CONCAT(R1C5,CONCAT(&quot; - &quot;,CONCAT(R[0]C[-3]:C[-3],&quot; -&quot;)))))),R1C5),R1C5),R1C3)))"><br><br>- Zig Ziglar -<br><br>#motivasi #bijaksana #bijaksini #bijaksanasini #katakatamotivasi #berpikirpositif<figure class="post__image"><img loading="lazy"  src="https://suryaerawan.com/media/posts/4/Zig-Ziglar-Motivation-2021-10-05.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://suryaerawan.com/media/posts/4/responsive/Zig-Ziglar-Motivation-2021-10-05-xs.png 300w ,https://suryaerawan.com/media/posts/4/responsive/Zig-Ziglar-Motivation-2021-10-05-sm.png 480w ,https://suryaerawan.com/media/posts/4/responsive/Zig-Ziglar-Motivation-2021-10-05-md.png 768w"  alt="" width="1080" height="1080"></figure></span></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Tampaksiring</title>
         <author>
@@ -42,17 +16,13 @@
         </author>
         <link href="https://suryaerawan.com/tampaksiring/"/>
         <id>https://suryaerawan.com/tampaksiring/</id>
+        <media:content url="https://suryaerawan.com/media/posts/3/artem-beliaikin-hrJW7qXf6QA-unsplash.jpg" medium="image" />
 
-        <updated>2021-10-05T09:05:16+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://suryaerawan.com/media/posts/3/artem-beliaikin-hrJW7qXf6QA-unsplash.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+        <updated>2021-10-05T08:05:16+07:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://suryaerawan.com/media/posts/3/artem-beliaikin-hrJW7qXf6QA-unsplash.jpg" alt="" />
+                    <p><img src="https://suryaerawan.com/media/posts/3/artem-beliaikin-hrJW7qXf6QA-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/3/gallery/nick-fewings-PjZSOpDaFHs-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/3/gallery/nick-fewings-PjZSOpDaFHs-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/3/gallery/nick-fewings-zVWX7IzssLw-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/3/gallery/nick-fewings-zVWX7IzssLw-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
@@ -71,17 +41,13 @@
         </author>
         <link href="https://suryaerawan.com/ubud/"/>
         <id>https://suryaerawan.com/ubud/</id>
+        <media:content url="https://suryaerawan.com/media/posts/2/chema-photo-DmEXjTOGkAY-unsplash.jpg" medium="image" />
 
-        <updated>2021-10-05T01:00:18+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://suryaerawan.com/media/posts/2/chema-photo-DmEXjTOGkAY-unsplash.jpg" alt="" />
-                     
-                ]]>
-            </summary>
+        <updated>2021-10-05T00:00:18+07:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://suryaerawan.com/media/posts/2/chema-photo-DmEXjTOGkAY-unsplash.jpg" alt="" />
+                    <p><img src="https://suryaerawan.com/media/posts/2/chema-photo-DmEXjTOGkAY-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/syuhei-inoue-h-Kfom9kXgI-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/syuhei-inoue-h-Kfom9kXgI-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/2/gallery/niklas-weiss-uyuHpQdmyPI-unsplash.jpg" data-size="1920x1465"><img loading="lazy" src="https://suryaerawan.com/media/posts/2/gallery/niklas-weiss-uyuHpQdmyPI-unsplash-thumbnail.jpg" alt="" width="768" height="586"></a></figure>
@@ -103,17 +69,18 @@
         </author>
         <link href="https://suryaerawan.com/home/"/>
         <id>https://suryaerawan.com/home/</id>
+        <media:content url="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" medium="image" />
 
-        <updated>2021-10-05T00:49:43+08:00</updated>
+        <updated>2021-10-04T23:49:43+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" alt="" />
-                    Few images from the island where I live 
+                    Few images from the island where I live
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" alt="" />
+                    <p><img src="https://suryaerawan.com/media/posts/1/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Few images from the island where I live</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://suryaerawan.com/media/posts/1/gallery/nelbali-photography-EgVgEc6C-Vo-unsplash.jpg" data-size="1920x1280"><img loading="lazy" src="https://suryaerawan.com/media/posts/1/gallery/nelbali-photography-EgVgEc6C-Vo-unsplash-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
